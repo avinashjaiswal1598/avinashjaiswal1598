@@ -1,8 +1,8 @@
-![logo](https://github.com/avinashjaiswal1598/avinashjaiswal1598/commit/1b01110607fd932ef298c546e9c9d3865c41ac9f)
+![logo](https://github.com/avinashjaiswal1598/avinashjaiswal1598/blob/main/_Blue%20%26%20Yellow%20Modern%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Avinash Jaiswal</h1>
 <h3 align="center">Coding the Symphony of Silicon Dreams</h3>
 
-<img align="right"alt="coding"width="400"src="https://giphy.com/gifs/metal-circuit-socket-pZ12OsDJOW1X8UyjgZ">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/metal-circuit-socket-pZ12OsDJOW1X8UyjgZ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashjaiswal1598&label=Profile%20views&color=0e75b6&style=flat" alt="avinashjaiswal1598" /> </p>
 

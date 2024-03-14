@@ -1,4 +1,4 @@
-![logo](![_Blue   Yellow Modern Technology LinkedIn Banner])
+![_Blue   Yellow Modern Technology LinkedIn Banner]
 <h1 align="center">Hi 👋, I'm Avinash Jaiswal</h1>
 <h3 align="center">Coding the Symphony of Silicon Dreams</h3>
 

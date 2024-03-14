@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Avinash Jaiswal</h1>
 <h3 align="center">Coding the Symphony of Silicon Dreams</h3>
 
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/metal-circuit-socket-pZ12OsDJOW1X8UyjgZ">
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/EvaGarnerSecretEden-space-eva-garner-the-secret-of-eden-B1xUp52rUnrv1Leakw">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avinashjaiswal1598&label=Profile%20views&color=0e75b6&style=flat" alt="avinashjaiswal1598" /> </p>
 
